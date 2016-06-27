@@ -1,0 +1,26 @@
+{
+  "name": "myth-webpack-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+   "myth",
+   "webpack",
+   "loader"
+ ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petitspois/myth-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petitspois/myth-loader/issues"
+    },
+    "dependencies": {
+       "myth": "^1.5.0"
+     }
+}
