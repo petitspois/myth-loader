@@ -2,12 +2,12 @@
 
 ## Installation
 
-`npm install myth-webpack-loader`
+`npm install myths-loader`
 
 ## Usage
 
 ``` javascript
-var fileContent = require("myth-webpack!./file.css");
+var fileContent = require("myths!./file.css");
 // => returns file.css content as string
 ```
 
